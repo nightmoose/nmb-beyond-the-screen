@@ -1,0 +1,11 @@
+# Copy to bedrock.properties in this folder, or export the same names
+# before running Gradle. Never commit real keys.
+#
+# The debug APK stores whatever values Gradle sees. Prefer a device file
+# for a shared build. See the README.
+
+BEDROCK_REGION=us-east-1
+BEDROCK_MODEL_ID=us.anthropic.claude-haiku-4-5-20251001-v1:0
+BEDROCK_ACCESS_KEY_ID=
+BEDROCK_SECRET_ACCESS_KEY=
+BEDROCK_SESSION_TOKEN=
